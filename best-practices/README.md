@@ -182,8 +182,8 @@ Email
 
 JavaScript
 ----------
-
-* Use ES6 when possible with a tool like [6to5].
+* Use Coffeescript, ES6 with 6to5, or another language that compiles to
+  JavaScript
 
 [6to5]: http://6to5.org/
 

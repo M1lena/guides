@@ -3,7 +3,7 @@ JavaScript
 
 [Sample](sample.js)
 
-* Prefer ES6 classes over library provided classes.
+* Prefer ES6 classes over prototypes.
 * Use strict equality checks (`===` and `!==`) except when comparing against
   (`null` or `undefined`).
 * Prefer [arrow functions] `=>`, over the `function` keyword except when
