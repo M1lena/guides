@@ -182,10 +182,10 @@ Email
 
 JavaScript
 ----------
-* Use Coffeescript, ES6 with 6to5, or another language that compiles to
+* Use Coffeescript, ES6 with [babel], or another language that compiles to
   JavaScript
 
-[6to5]: http://6to5.org/
+[babel]: http://babeljs.io/
 
 HTML
 ----
